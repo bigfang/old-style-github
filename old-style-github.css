@@ -105,4 +105,13 @@
   .filter-item.selected {
     background-color: #4078c0;
   }
+  .ajax-pagination-form .ajax-pagination-btn {
+    color: #4078c0;
+  }
+  .octofication .broadcast-icon {
+    color: #4078c0;
+  }
+  .site-header .site-header-link {
+    color: #4078c0;
+  }
 }

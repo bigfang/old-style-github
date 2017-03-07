@@ -99,6 +99,13 @@
     background-color: #4078c0;
     border-color: #4078c0;
   }
+  .pagination .current, .pagination .current:hover {
+    background-color: #4078c0;
+    border-color: #4078c0;
+  }
+  .pagination a, .pagination span, .pagination em {
+    color: #4078c0;
+  }
   .btn-link, .btn-outline {
     color: #4078c0;
   }

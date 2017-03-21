@@ -95,6 +95,9 @@
   a {
     color: #4078c0;
   }
+  table.files td.message a:hover {
+    color: #4078c0;
+  }
   .subnav-item.selected, .subnav-item.selected:hover, .subnav-item.selected:focus {
     background-color: #4078c0;
     border-color: #4078c0;

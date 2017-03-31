@@ -101,7 +101,7 @@
   .numbers-summary a:hover {
     color: #4078c0;
   }
-  .muted-link:hover {
+  .muted-link:hover, .link-gray-dark:hover {
     color: #4078c0 !important;
   }
   .subnav-item.selected, .subnav-item.selected:hover, .subnav-item.selected:focus {

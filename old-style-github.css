@@ -95,6 +95,9 @@
   a {
     color: #4078c0;
   }
+  a.member-row:hover {
+    color: #4078c0;
+  }
   table.files td.message a:hover {
     color: #4078c0;
   }

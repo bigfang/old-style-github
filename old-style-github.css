@@ -144,10 +144,14 @@
   .dropdown-item:hover, .dropdown-item.zeroclipboard-is-hover {
     background-color: #4078c0;
   }
-  .social-count:hover {
-    color: #4078c0;
+  .blame-container .reblame-link:hover {
+    background: #4078c0;
+  }
+  .link-gray:hover, .social-count:hover {
+    color: #4078c0 !important;
   }
   .reponav-item {
     color: #586069;
   }
 } 
+

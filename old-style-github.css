@@ -141,6 +141,9 @@
   .site-header .site-header-link {
     color: #4078c0;
   }
+  .dropdown-item:hover, .dropdown-item.zeroclipboard-is-hover {
+    background-color: #4078c0;
+  }
   .reponav-item {
     color: #586069;
   }

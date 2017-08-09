@@ -92,7 +92,7 @@
     color: #999 !important;/*AAA*/
   }
   
-  a {
+  a, a.branch-name {
     color: #4078c0;
   }
   a.member-row:hover {
@@ -130,7 +130,7 @@
   }
   .filter-item.selected {
     background-color: #4078c0;
-    border-color: #4078c0;
+    border-color:#4078c0;
   }
   .ajax-pagination-form .ajax-pagination-btn {
     color: #4078c0;
@@ -141,4 +141,7 @@
   .site-header .site-header-link {
     color: #4078c0;
   }
-}
+  .reponav-item {
+    color: #586069;
+  }
+} 

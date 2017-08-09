@@ -121,7 +121,7 @@
   .pagination a, .pagination span, .pagination em {
     color: #4078c0;
   }
-  .btn-link, .btn-outline {
+  .btn-link, .btn-invisible, .btn-outline {
     color: #4078c0;
   }
   .btn-outline:hover, .btn-outline:active, .btn-outline.selected {

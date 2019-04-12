@@ -24,15 +24,15 @@
   color: #4078C0 !important;
 }
 
-.Header .HeaderNavlink {
+.Header .Header-link {
   color: #555 !important;
 }
-.Header .HeaderNavlink:hover,
-.Header .HeaderNavlink:focus {
+.Header .Header-link:hover,
+.Header .Header-link:focus {
   color: #4078c0 !important;
 }
-.Header .HeaderNavlink:hover .dropdown-caret,
-.Header .HeaderNavlink:focus .dropdown-caret {
+.Header .Header-link:hover .dropdown-caret,
+.Header .Header-link:focus .dropdown-caret {
   border-top-color: #4078c0 !important;
 }
 
